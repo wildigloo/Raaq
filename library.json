@@ -1,7 +1,30 @@
 {
+    "OBGYN": {
+        "Nipple Discharge": {
+            "NippleDischarge": {
+                "file": "library/OBGYN/Nipple Discharge/NippleDischarge.md"
+            }
+        }
+    },
+    "PostOperative": {
+        "Surgical Site Infections": {
+            "Surgical Site Infections": {
+                "file": "library/PostOperative/Surgical Site Infections/Surgical Site Infections.md"
+            }
+        }
+    },
     "Pulmonary": {
-        "Chronic cough": {
-            "file": "constellations/library/Pulmonary/Chronic cough/chroniccough.md"
+        "Chronic Cough": {
+            "Chronic Cough": {
+                "file": "library/Pulmonary/Chronic Cough/Chronic Cough.md"
+            }
+        }
+    },
+    "Renal": {
+        "Hyponatremia": {
+            "Hyponatremia": {
+                "file": "library/Renal/Hyponatremia/Hyponatremia.md"
+            }
         }
     }
 }
