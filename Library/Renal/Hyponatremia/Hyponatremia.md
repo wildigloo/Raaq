@@ -1,6 +1,10 @@
 # Hyponatremia
 #### Last updated: 7/26/2026 By: Adem Berat Dalkilic
 
+# Review Questions
+1. List the differential diagnosis for hyponatremia
+2. List the steps involved in the workup of hyponatremia
+
 ## Differential Diagnosis
 The differential diagnosis for hyponatremia can be remembered with the following mnemonic: **fake sugar fails; advanced dipping nutrition said so; deficient sugar hopes; hearts cirrhose; two insufficient brains' salts**
 
