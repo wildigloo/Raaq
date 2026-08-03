@@ -1,4 +1,13 @@
 {
+
+    "GI": {
+        "Dysphagia": {
+            "Dysphagia": {
+                "file": "Library/GI/Dysphagia/Dysphagia.md"
+            }
+        }
+    },
+    
     "OBGYN": {
         "Nipple Discharge": {
             "NippleDischarge": {
