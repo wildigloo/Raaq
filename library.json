@@ -18,6 +18,10 @@
             "Chronic Cough": {
                 "file": "Library/Pulmonary/Chronic Cough/Chronic Cough.md"
             }
+        "Dyspnea": {
+            "Dyspnea": {
+                "file": "Library/Pulmonary/Dyspnea/Dyspnea.md"
+            }
         }
     },
     "Renal": {
