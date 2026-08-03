@@ -6,14 +6,13 @@ Dyspnea itself is defined as a "subjective experience of breathing discomfort th
 Chronic dyspnea is defined as dyspnea persisting for more than one month. 
 
 ## Differential Diagnosis:
-** Aspiring COPs failed pneumorous art conditions; 
+**Aspiring COPs failed pneumorous art conditions; 
 Sarc's obese pregnancy causes anxiety;
 Fiber sensitizes bronchos' mediocre radiators;
 Alpha toxin tenses cysts emboliclly.
 Tumor tampons' rhythm excavates skulls and ankles
 Al's muscles are anemic
-Thyroids stenosis and constrict RASLE's aspiring phriend!
-**
+Thyroids stenosis and constrict RASLE's aspiring phriend!**
 
 1. Asthma
 2. COPD
