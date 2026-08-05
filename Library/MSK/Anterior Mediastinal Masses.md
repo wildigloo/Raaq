@@ -4,10 +4,10 @@
 
 ## Differential Diagnosis
 
-### Anterior: **Thymoma, thyroid neoplasm, teratoma, *terrible* lymphoma, and parathyroid neoplasms**
+### Anterior: **Thymoma, thyroid neoplasm, teratoma, *terrible* lymphoma, and parathyroid neoplasms** *-P.S. He has Fiber!*
 
 #### Order of Prevalence and subdifferentials
-1. Thymoma: most common cause, consider the following etiologies:
+1. Thymoma: **THC** most common cause, consider the following etiologies:
 	- Thymic hyperplasia
 		- True thymic hyperlasia: enlarged thymus with retained original shape; usually secondary to: severe stress (chemotherapy, burns, or corticosteroid use)
 		- Lymphoid (follicular) thymic hyperplasia: increased number of lymphoid follicles usually linked to autoimmune conditions like myasthenia gravis
@@ -15,7 +15,7 @@
 	- Thymic cysts (congenital or acquired as a result of inflammation secondary to Hodgkin lymphoma for example)
 	- Carcinoma
 	- Carcinoid
-2. Germ cell tumors: second most common cause (~15%); usually caused by primitive germ cells that fail to migrate from gonads during embryonic development:
+2. Germ cell tumors **Benign or Malignant? Semi or Nonsemi?**: second most common cause (~15%); usually caused by primitive germ cells that fail to migrate from gonads during embryonic development:
 	- Benign teratomas (most common): contain tissue from at least 2 of 3 germ layers
 	- Malignant teratomas: contain fetal or neuroendocrine tissue; has a poor prognosis
 	- Seminomas and nonseminomatous germ cell tumors: large bulky masses; are considered malignant; -usually have nomral AFP and normal or mildly elevated β-hCG
@@ -24,7 +24,7 @@
 		- choriocarcinoma
 		- embryonal carcinoma
 		- mixed germ cell tumors
-3. Mediastinal lymphomas:
+3. Mediastinal lymphomas **Hodgkin has tall B-cells!**:
 	- Hodgkin lymphoma
 		- Nodular sclerosing
 		- Lymphocyte rich
@@ -33,14 +33,14 @@
 	- Non-Hodgkin lymphoma
 		- Benign primary mediastinal large B-cell non-Hodgkin lymphoma
 		- Lymphoblastic non-Hodgkin lymphoma (usually *acute T-lymphoblastic lymphoma*)
-4. Thyroid:
+4. Thyroid **Extend ectopic remains**:
 	- Goiters
 		- Extension of lower cervical thyroid lobes into the thoracic inlet (most common)
 		- Remnants of embryonic tissue
 		- Ectopic thyroid tissue
 5. Parathyroid adenomas
-6. Hemangiomas
-7. Sarcomas
+6. Sarcomas
+7. Hemangiomas
 8. Fibrosing mediastinitis (gradual infiltration of fibrous tissue into mediastinum, usually secondary to chronic inflammation from infections like tuberculosis or from radiation exposure, autoimmune disorders, or even some medications
 
 #### Associated symptoms:
