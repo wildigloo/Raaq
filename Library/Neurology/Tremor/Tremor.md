@@ -1,4 +1,4 @@
-# Tremor
+# Tremor [1]
 *Last edited by: Adem Berat Dalkilic on 8/7/2026*
 
 ## Definitions of Types of Tremors
@@ -42,4 +42,21 @@ Tremor
 	- Hyperthyroidism
 	- Hyperparathyroidism
 	- Vitamin B12, B1, B6
+
+## Simple Algorithm for Tremor Workup
+1. Physiologic: evlauate for anxiety, caffeine use, glucose, LFTs, TSH
+2. Medication evaluation: trial discontinuation
+3. Relived with distraction: psychogenic tremor
+4. Age < 40
+	1. Serum ceruloplasmin and urinary copper secretion: Wilson disease
+ 	2. Neurologic symptoms absent: Essential tremor
+    3. Neurologic symptoms present: Advanced workup
+5. Resting tremor + rigidity, bradykinesia, or postural instability: Parkinson's or Parkinson's plus syndrome
+6. History of alcoholism: withdrawal or chronic alcohol tremor
+7. Postural tremor: essential tremor
+8. Intention tremor: cerebellar tremor (head imaging for stroke, tumor, multiple sclerosis)
+
+
+# References
+1. Crawford, P., & Zimmerman, E. E. (2018). Tremor: sorting through the differential diagnosis. American family physician, 97(3), 180-186.
 
