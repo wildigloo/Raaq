@@ -22,7 +22,7 @@ Tremor
 - Postural
 	- Essential Tremor
 
-- Other: (Psychotic, dystonic, medications, will all poison fragile livers; so give the thyroid and parathyroids vitamins and minerals)
+- Other: *(Psychotic, dystonic, medications, will all poison fragile livers; so give the thyroid and parathyroids vitamins and minerals)*
 	- Medication
 	- Psychogenic: Secondary gain or post traumatic.
 	- Dystonic: irregular and jerky; extinguished by certain hand or arm positions. Other signs (abnormal flexion of wrists) are always present. Rare and seen in younger individuals usually.
