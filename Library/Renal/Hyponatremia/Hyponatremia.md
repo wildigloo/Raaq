@@ -6,7 +6,7 @@
 2. List the steps involved in the workup of hyponatremia
 
 ## Differential Diagnosis
-The differential diagnosis for hyponatremia can be remembered with the following mnemonic: **fake sugar fails; advanced dipping nutrition said so; deficient sugar hopes; hearts cirrhose; two insufficient brains' salts**
+The differential diagnosis for hyponatremia can be remembered with the following mnemonic: **he said fake sugar fails; kidneys, adrenals, and thyroids dipped in nutrition; cirrhotic hearts waste medications; extrarenal
 
 1. Pseudohyponatremia
 2. Hyperglycemia
