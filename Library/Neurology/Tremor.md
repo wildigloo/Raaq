@@ -47,4 +47,7 @@ Tremor
 2. Is tremor drug induced? If Yes: trial off medication
 3. Is tremor relived with distraction? If Yes: Psychogenic tremor
 4. Is patient younger than 40? If Yes: check ceruloplasmin level and urinary copper secretion; if not Wilson's and NO neurologic signs: probably essential tremor; if neurologic signs are present: consider advanced testing and imaging
-5. 
+5. If older than 40: is tremor resting? If Yes: possible Parkinsonism
+6. Does patient have a history of alcoholism? If Yes: consider withdrawal or alcohol tremor
+7. Is it a postural tremor? If Yes: consider essential tremor
+8. Is it a intention tremor? If Yes: consider imaging for stroke, mass, or multiple sclerosis
