@@ -1,4 +1,4 @@
-# Tremor
+# Tremor [1]
 
 ## Definitions of Types of Tremors
 - Resting
@@ -51,3 +51,6 @@ Tremor
 6. Does patient have a history of alcoholism? If Yes: consider withdrawal or alcohol tremor
 7. Is it a postural tremor? If Yes: consider essential tremor
 8. Is it a intention tremor? If Yes: consider imaging for stroke, mass, or multiple sclerosis
+
+# References
+1. Crawford, P., & Zimmerman, E. E. (2018). Tremor: sorting through the differential diagnosis. American family physician, 97(3), 180-186.
