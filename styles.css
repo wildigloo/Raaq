@@ -9,6 +9,16 @@ body {
     height: 100vh;
 }
 
+.library-image {
+    display: block;
+    max-width: 100%;
+    max-height: 80vh;
+    height: auto;
+    margin: 0 auto;
+    object-fit: contain;
+}
+
+
 
 /* Left navigation */
 
