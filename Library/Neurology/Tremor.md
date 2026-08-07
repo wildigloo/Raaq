@@ -41,3 +41,10 @@ Tremor
 	- Hyperthyroidism
 	- Hyperparathyroidism
 	- Vitamin B12, B1, B6
+
+## Simple Algorithm for Diagnosis
+1. Is tremor physiologic? If Yes: evaluate for anxiety, caffeine, LFTs, TSH, glucose
+2. Is tremor drug induced? If Yes: trial off medication
+3. Is tremor relived with distraction? If Yes: Psychogenic tremor
+4. Is patient younger than 40? If Yes: check ceruloplasmin level and urinary copper secretion; if not Wilson's and NO neurologic signs: probably essential tremor; if neurologic signs are present: consider advanced testing and imaging
+5. 
