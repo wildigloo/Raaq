@@ -17,16 +17,13 @@ Tremor
 	- Parkinson disease: low-frequency, pill-rolling tremor of the fingers progressing to forearm pronation/supination and elbow flexion/extension. Typically unilateral, occurs at rest, and fades with voluntary movement. Can involve the leg and jaw. Can reemerge after latency with maintenance of posture. Small quivery spiral when drawing circle.
 	- Drug-induced parkinsonism
 	- Parkinson plus syndromes: plus syndromes are less likely to be associated with resting tremor than with Parkinson's, but they may be present.
-- Action
-	- Kinetic
-		- Essential Tremor: most obvious in wrists and hands with patient holding arms in front of them; can also affect head, lower extremities, and even voice. Usually bilateral. Relieved with alcohol consumption. Autosomal dominant inheritance pattern about half the time. Very common. Large shaky spiral when drawing circle.
-		- Cerebellar: slow intention or postural; usually secondary to multiple sclerosis, stroke, or brainstem tumor; usually also have dysmetria, dyssnergia, and hypotonia
-		- Chronic alcohol use
-	- Postural
-		- Cerebellar 
-		- Medication effect, especially sympathomimetics and psychoactive medications
+- Intention
+	- Cerebellar: can also be postural; usually secondary to multiple sclerosis, stroke, or brainstem tumor; usually also have dysmetria, dyssnergia, and hypotonia
+- Postural
+	- Essential Tremor
 
-- Other:	
+- Other: (Psychotic, dystonic, medications, will all poison fragile livers; so give the thyroid and parathyroids vitamins and minerals)
+	- Medication
 	- Psychogenic: Secondary gain or post traumatic.
 	- Dystonic: irregular and jerky; extinguished by certain hand or arm positions. Other signs (abnormal flexion of wrists) are always present. Rare and seen in younger individuals usually.
 	- Alcohol withdrawal
