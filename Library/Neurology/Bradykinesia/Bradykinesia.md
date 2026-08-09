@@ -23,8 +23,8 @@
 17. Mitochondrial Disorders
 18. Idiopathic Basal Ganglia Calcification
 19. Arthritis
-20. Depression
-21. Obsessional Slowness
+20. Depression - psychomotor retardation + depression + apathy + appetite changes
+21. Obsessional Slowness - OCD history
 22. Psychogenic Parkinsonism
 
 ## Brief Discerning Features
