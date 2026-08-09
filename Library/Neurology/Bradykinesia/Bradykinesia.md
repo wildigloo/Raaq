@@ -27,11 +27,35 @@
 21. Obsessional Slowness
 22. Psychogenic Parkinsonism
 
-Features of each disease:
-## Differential Diagnosis
+## Brief Discerning Features
+1. Parkinson's Disease: bradykinesia + (tremor or rigidity)
+2. Dementia with Lewy Bodies - parkinsonism + preceeding dementia + 50-65 year old
+3. Multiple system atrophy - parkinsonism + severe autonomic dysfunction
+4. Progressive supranuclear palsy - parkinsonism + upright posture + jerking eye movements + unable to look down
+5. Corticobasal syndrome - parkinsonism + apraxia + sensory loss + alien limb phenomenon
+6. Drug induced
+7. Toxins
+8. Vascular parkinsonism - symmetric parkinsonism of lower limbs + stroke risk factors
+9. Normal pressure hydrocephalus - parkinsonism + ataxia + incontinence + dementia
+10. Familial parkinson disease
+11. Wilson disease
+12. Huntington disease - chorea + apathy + family history (trinucleotide repeat)
+13. Spinocerebellar ataxia - parkinsonism + cerebellar ataxia + peripheral neuropathy
+14. Fragile X associated tremor/ataxia - parkinsonism + family history (trinucleotide repeat) + ataxia
+15. Frontotemporal dementia - behavior changes + progressive aphasia + parkisonism + 40-65 year old
+16. Neurodegeneration with Brain Iron Accumulation - dystonia + vision changes + ataxia + dysarthria
+17. Mitochondrial Disorders - seizures + family history
+18. Idiopathic Basal Ganglia Calcification - parkinsonism + memory changes + dysarthria + dysphagia
+19. Arthritis
+20. Depression
+21. Obsessional Slowness
+22. Psychogenic Parkinsonism
+
+
+## Detailed Features of Each Disease
 1. Parkinson Disease - see below
 2. Dementia with Lewy Bodies - progressive cognitive impairment with visual hallucinations, REM sleep behavior disorder, and Parkinsonism; overlaps with PD (both alpha-synuclein mediated); If cognitive symptoms predate, then the diagnosis is DLB, otherwise its PD - **avoid dopaminergic therapies which can exacerbate congition and behavior**. Use cholinesterase inhibitors instead.
-3. Multiple System Atrophy - another alpha-synucleinopathy; presents with a range of findings: parkinsonism, cerebellar ataxia, autonomic failure, urogenital dysfunction, and corticospinal involvement; relative *preservation of congition*; shows initiall good response to levodopa and can mimic PD in early stages. Autonomic dysfunction is virtually always present in MSA; stridor, a positive Babinski sign, and cerebellar ataxia (dysarthria, oculomotor dysfunction, or gait/limb ataxia) are all seen in MSA but not in PD. Poly-mini-myoclonus is seen in MSA and not really seen in PD. Hot cross bun sign seen on imaging.
+3. Multiple System Atrophy - another alpha-synucleinopathy; presents with a range of findings: parkinsonism, cerebellar ataxia, autonomic failure, urogenital dysfunction, and corticospinal involvement; relative *preservation of congition*; shows initially good response to levodopa and can mimic PD in early stages. Autonomic dysfunction is virtually always present in MSA; stridor, a positive Babinski sign, and cerebellar ataxia (dysarthria, oculomotor dysfunction, or gait/limb ataxia) are all seen in MSA but not in PD. Poly-mini-myoclonus is seen in MSA and not really seen in PD. Hot cross bun sign seen on imaging.
 4. Progressive Supranuclear Palsy - tauopathy; present with walking difficulties, unsteadiness, falls and visual symptoms (dry eyes and blurred vision). Symmetrical parkinsonism involving axial musculature. Does not respond to levodopa. Posture is very different because of axial involvement: upright, sometimes retrocollis; often fall backwards especially when turning. Early on they may have square wave jerking eye movements or slowing of vertical saccades. May present with apathy or, paradoxically, impulsivity. Loss of executive function and verbal fluency are common. Imaging shows hummingbird sign.
 5. Corticobasal Syndrome - tauopathy; has several asymmetric limb rigidity or akinesia, mimicking PD. Frequently associated with dystonia and myoclonus and its Parkinsonism is levodopa-resistant. May also involve axial musculature. May have a nonresting tremor. Key distinguishing features from PD include: apraxia, cortical sensory loss, progressive non-fluent aphasia, and alien limb phenomenon. Has a wide variety of cognitive and behavioral changes or impairment. Imaging shows asymmetric pattern of atrophy involving frontal and parietal cortices.
 6. Drug-induced Parkinsonism - dopamine receptor antagonists, especially typical antipsychotics like haloperidol and chlorpromazine, but also atypical antipsychotics like risperidone and olanzapine can cause parkinsonism. Antiemetics acting on dopamine receptors like metoclopramide and domperidone also documented. Also calcium channel blockers, antiepileptics, dopamine depletors (tetrabenazine), and SSRIs are associated with drug-induced Parkinsonism. Usually causes a symmetrical parkinsonism with prominent bradykinesia and rigidity; DATSCAN is normal in drug-induced causes while abnormal in PD.
