@@ -2,6 +2,8 @@
 **Last updated by Adem Berat Dalkilic on 8/9/26**
 
 ## Differential Diagnosis
+**Parking + drugs and toxins affects vasculature; normal families, Will hunt fragile taxis; iron in mitochondria calcifies frontal joints; depression slows obsessions**
+
 1. Parkinson Disease
 2. Dementia with Lewy Bodies
 3. Multiple System Atrophy
