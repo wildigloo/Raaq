@@ -20,6 +20,13 @@
         "file": "Library/Neurology/Tremor/Tremor.md"
       }
     }
+
+    "Bradykinesia": {
+      "Bradykinesia": {
+        "file": "Library/Neurology/Bradykinesia/Bradykinesia.md"
+      }
+    }
+    
   },
   
   "OBGYN": {
