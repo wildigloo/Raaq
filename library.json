@@ -6,7 +6,6 @@
       }
     }
   },
-
   "GI": {
     "Dysphagia": {
       "Dysphagia": {
@@ -20,29 +19,22 @@
         "file": "Library/Neurology/Tremor/Tremor.md"
       }
     },
-    
-
     "Bradykinesia": {
       "Bradykinesia": {
         "file": "Library/Neurology/Bradykinesia/Bradykinesia.md"
       }
-    }
-    
-  
-
-  "Radiculopathy": {
+    },
+    "Radiculopathy": {
       "Radiculopathy": {
         "file": "Library/Neurology/Radiculopathy/Radiculopathy.md"
       }
     },
-
-  "Dystonia": {
+    "Dystonia": {
       "Dystonia": {
         "file": "Library/Neurology/Dystonia/Dystonia.md"
       }
     }
   },
-  
   "OBGYN": {
     "Nipple Discharge": {
       "NippleDischarge": {
