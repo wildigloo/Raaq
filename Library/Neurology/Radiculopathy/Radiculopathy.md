@@ -1,4 +1,4 @@
-#Radiculopathy
+# Radiculopathy [1]
 **Last Updated by Adem Berat Dalkilic on 8/11/26**
 
 ## Definition: dysfunction at the level of a nerve root, including motor and sensory deficits
@@ -53,3 +53,5 @@
 - MRI is useful for identifying spinal epidural abscess, cauda equina syndrome, osteomyelitis, and metastases
 - If MRI is contraindicated, order a CT myelogram
 
+# References
+1. 
