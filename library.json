@@ -20,6 +20,7 @@
         "file": "Library/Neurology/Tremor/Tremor.md"
       }
     },
+    
 
     "Bradykinesia": {
       "Bradykinesia": {
@@ -27,6 +28,19 @@
       }
     }
     
+  
+
+  "Radiculopathy": {
+      "Radiculopathy": {
+        "file": "Library/Neurology/Radiculopathy/Radiculopathy.md"
+      }
+    },
+
+  "Dystonia": {
+      "Dystonia": {
+        "file": "Library/Neurology/Dystonia/Dystonia.md"
+      }
+    }
   },
   
   "OBGYN": {
