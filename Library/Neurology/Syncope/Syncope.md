@@ -11,7 +11,7 @@ Description of the episode:
 *Precipitating postures, abruptly position symptoms; consciousness recovers sequentially; clonic colors diaphorese; pulses respire; urine recover*
 
 - Precipitating factors
-- Posture
+- Posture   
 - Abrupt or gradual faint
 - Position of head and neck
 - Presence and duration of preceeding symptoms
@@ -25,6 +25,7 @@ Description of the episode:
 - Respiration
 - Urinary incontinence
 - Nature of recovery
+- Chest pain or fluttering
 
 
 
