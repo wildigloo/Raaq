@@ -7,14 +7,13 @@ Age and gender:
 - young female: basilar migraines induced syncope
 - elderly: organic disease of cerebral circulation or cardiovascular system more likely
 
-Description of the episode:
-*Precipitating postures, abruptly position symptoms; consciousness recovers sequentially; clonic colors diaphorese; pulses respire; urine recover*
-
+Characteristics of the chief complaint and Relevant Associated Symptoms:
+*Precipitating postures, abruptly position symptoms; consciousness recovers sequentially; clonic colors diaphorese; pulses respire and urine recovers*
 - Precipitating factors
 - Posture   
 - Abrupt or gradual faint
 - Position of head and neck
-- Presence and duration of preceeding symptoms
+- Presence and duration of preceeding symptoms (lightheadedness, aura, etc)
 - Duration of loss of consciousness
 - Rate of recovery
 - Sequelae
@@ -27,7 +26,28 @@ Description of the episode:
 - Nature of recovery
 - Chest pain or fluttering
 
+Second Tier History:
+- History of cardiac disease
+- History of anemia
+- History of hypoglycemia
+- History of congenital malformations (connective tissue diseases, congenital heart disease)
+- Frequency and number of attacks
+- Medications
+- All other parts of standard history
 
+## Physical Exam
+- Attempt recreation with Valsalva maneuver, if possible
+- Supine vs upright blood pressure measurement (orthostatic drop > 15 mmHg may suggest autonomic dysfunction)
+- Assess blood pressures in all extremities (subclavian steal, Takayasu arteritis, coaractation of the aorta, cerebrovascular disease)
+- Examine rhythm; attempt vagal maneuvers (other than carotid massage - risk of embolism) to termiante supraventricular tachycardias and see the underlying rhythm
+- Order an electrocardiogram
+- Auscultate
+    - Listen to heart sounds at all relevant positions
+    - Listen for posture related changes in heart sounds (cardiac myxoma)
+    - Order an echocardiogram depending on sounds heard
+    - Listen for carotid, ophthalmic and supraclavicular bruits
+- Assess carotid pulses
+- Examine jugular vein
 
 ### Distinguishing Syncope from Seizures
 | **Feature** | **Syncope** | **Seizure** |
@@ -51,7 +71,7 @@ Description of the episode:
 
 
 ## Differential for Syncope
-1. Arrhythmias
+1. Arrhythmias: brady or tachy
 2. Decreased cardiac output:
 3. Outflow obstruction
 4. Inflow obstruction
