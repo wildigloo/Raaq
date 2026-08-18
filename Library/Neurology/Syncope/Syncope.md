@@ -71,29 +71,41 @@ Second Tier History:
 
 
 ## Differential for Syncope
-1. Arrhythmias: brady or tachy
-2. Decreased cardiac output:
-3. Outflow obstruction
-4. Inflow obstruction
-5. Cardiomyopathy
-6. Hypovolemic
-7. Hypotensive:
-8. Vasovagal attack
-9. Drugs
-10. Dysautonomia
-11. Cerebrovascular:
-12. Carotid disease
-13. Vertebrobasilar disease
-14. Vasospasm
-15. Takayasu disease
-16. Metabolic:
-17. Hypoglycemia
-18. Anemia
-19. Anoxia
-20. Hyperventilation
-21. Multifactorial:
-22. Vasovagal (vasodepressor) attack
-23. Cardiac syncope
-24. Situational: cough, micturition, defecation, swallowing, diving, Valsalva maneuver
+
+### Arrhythmias: brady or tachy
+
+Bradyarrhythmias and tachyarrhythmias can both cause syncope. Syncopes from arrhythmias usually occur in any position and are often exercise induced. There is also usually a history of congenital or acquired heart disease. Palpitations may or may not occur, and the patient may have no preceeding symptoms at all suggestive of a cardiac issue. Besides considering the types of arrhythmias, it is also important to consider pacemaker induced arrhythmias.
+
+### AV Block
+AV block is the most common cause of cardiac arrhythmic cardiac syncope. *Stokes Adams* can occur in complete AV block. Usually it is more common in elderly patients with some sort of heart valve disease. During a *Stokes Adams* attack, the patient can be pale and will faint with resultant injury. Clonic muscle jerks may occur in prolonged attacks and urine incontinence may occur. Regaining of consciousness is usually rapid.
+
+### Sinoatrial Block
+May result in syncope, and it is common in the elderly. Look out for certain drugs, verapamil, digoxin, and beta blockers, which may impair SA node function.
+
+
+
+3. Decreased cardiac output:
+4. Outflow obstruction
+5. Inflow obstruction
+6. Cardiomyopathy
+7. Hypovolemic
+8. Hypotensive:
+9. Vasovagal attack
+10. Drugs
+11. Dysautonomia
+12. Cerebrovascular:
+13. Carotid disease
+14. Vertebrobasilar disease
+15. Vasospasm
+16. Takayasu disease
+17. Metabolic:
+18. Hypoglycemia
+19. Anemia
+20. Anoxia
+21. Hyperventilation
+22. Multifactorial:
+23. Vasovagal (vasodepressor) attack
+24. Cardiac syncope
+25. Situational: cough, micturition, defecation, swallowing, diving, Valsalva maneuver
 
 
