@@ -1,5 +1,5 @@
 # Syncope [1]
-*Last updated by Adem Berat Dalkilic on 8/11/26*
+*Last updated by Adem Berat Dalkilic on 8/18/26*
 
 ## History
 Age and gender: 
@@ -80,9 +80,10 @@ Bradyarrhythmias and tachyarrhythmias can both cause syncope. Syncopes from arrh
 AV block is the most common cause of cardiac arrhythmic cardiac syncope. *Stokes Adams* can occur in complete AV block. Usually it is more common in elderly patients with some sort of heart valve disease. During a *Stokes Adams* attack, the patient can be pale and will faint with resultant injury. Clonic muscle jerks may occur in prolonged attacks and urine incontinence may occur. Regaining of consciousness is usually rapid.
 
 ### Sinoatrial Block
-May result in syncope, and it is common in the elderly. Look out for certain drugs, verapamil, digoxin, and beta blockers, which may impair SA node function.
+May result in syncope, and it is common in the elderly. Look out for certain drugs, **verapamil, digoxin, and beta blockers**, which may impair SA node function.
 
-
+### Paroxysmal Tachycardia
+Supraventricular tachycardias include atrial fluter, atrial fibrillation with rapid ventricular response, AV nodal reentry tachycardia, and AV reentrant tachycardia (Wolff-Parkinson-White syndrome, usually involving the Bundle of Kent or another accessory pathway). Ventricular tachycardia and, almost always, ventricular fibrillation cause near immediate syncope. It's also important to think of long QT syndrome that may have predisposed a patient to ventricular fibrillation or ventricular tachycardia; ask about family history for such patients and any prior episodes; it is also important to ask about congenital hearing loss (Jervell and Lange-Nielsen syndromes involve congenital sensorineural hearing loss). It is also important to think of acquired causes of long QT syndrome, such as cardiac ischemia, mitral valve prolapse, myocarditis, and electrolyte disturbances, and a number of medications. Short QT syndrome may be completely asymptomatic or cause sudden death, and it usually affects younger, otherwise healthy individuals. A family history of sudden cardiac death could indicate short QT syndrome, especially if ECG demonstrates a short QT interval and a peaked T wave. Brugada syndrome can predispose to ventricular tachycardia or ventricular fibrillation, as well, and it sometimes manifests with a short QT and an pseudo right bundle-branch block in leads V1 and V2 and significant downslopping ST elevation, leading to inverted T waves in those two leads.
 
 3. Decreased cardiac output:
 4. Outflow obstruction
