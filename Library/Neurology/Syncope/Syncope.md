@@ -71,14 +71,14 @@ Second Tier History:
 
 ## Differential for Syncope
 
-### Arrhythmias: brady or tachy
-Bradyarrhythmias and tachyarrhythmias can both cause syncope. Syncopes from arrhythmias usually occur in any position and are often exercise induced. There is also usually a history of congenital or acquired heart disease. Palpitations may or may not occur, and the patient may have no preceeding symptoms at all suggestive of a cardiac issue. Besides considering the types of arrhythmias, it is also important to consider pacemaker induced arrhythmias.
+### Arrhythmias
+- **Bradyarrhythmias**
+- **Tachyarrhythmias**
+- **Pacemaker induced arrhythmia**
 
-### AV Block
-AV block is the most common cause of cardiac arrhythmic cardiac syncope. *Stokes Adams* can occur in complete AV block. Usually it is more common in elderly patients with some sort of heart valve disease. During a *Stokes Adams* attack, the patient can be pale and will faint with resultant injury. Clonic muscle jerks may occur in prolonged attacks and urine incontinence may occur. Regaining of consciousness is usually rapid.
-
-### Sinoatrial Block
-May result in syncope, and it is common in the elderly. Look out for certain drugs, **verapamil, digoxin, and beta blockers**, which may impair SA node function.
+### Conduction Block
+- **AV block**, such as in *Stokes Adams*
+- **SA node block**, seen in the elderly but can also be caused by medications like **verapamil, digoxin, and beta blockers**
 
 ### Paroxysmal Tachycardia
 - **Supraventricular tachycardias** include atrial fluter, atrial fibrillation with rapid ventricular response, AV nodal reentry tachycardia, and AV reentrant tachycardia (Wolff-Parkinson-White syndrome, usually involving the Bundle of Kent or another accessory pathway).
