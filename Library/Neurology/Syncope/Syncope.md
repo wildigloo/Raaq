@@ -135,4 +135,37 @@ Second Tier History:
 - **Impingement**, usually seen with hyperextension or lateral rotation of the head in old people; also seen in Bow-Hunter's syndrome
 - **Cerebral vasospasm**, seen after basilar artery migraine, or subarachnoid hemorrhages
 
+### Metabolic Disorders
+- **Hypoglycemia**
+- **Anoxia**
+- **Hyperventilation induced syncope**, associated with parestheisa of face, hands, and feet, headache, and tetany secondary to metabolic alkalosis
+- **Adrenal insufficiency**
 
+### Other
+- Situational syncope, such as with cough (tussive syncope) and weightlifting, leading to decreased venous return through increased intrathoracic pressure; micturition syncope is due to sudden reflex peripheral vasodilation from sudden release of intravesicular pressure; also consider an extra adrenal pheochromocytoma; defecation syncope, diving, postprandial state, and neurocardiogenic syncope
+- Intermittent CSF outflow obstruction: due to a third ventricular mass
+- Arnold-Chiari malformations
+
+## Diagnosing the Cause of Syncope
+### Determining if a Workup is Necessary
+- *San Francisco Syncope Rule* has limited external validation
+    - Inclusion criteria: "adult patients who present to the emergency department with syncope or near syncope of unknown etiology who are back to their neurologic baseline"
+    - Exclusion criteria: "persistent altered mental status or new neurologic deficits are present, alcohol or drug related loss of consciousness is suspected, a definite seizure occurred, or there was a transient loss of consciousness due to head trauma"
+- *Rose Syncope Rule* has limited external validity
+### Universal Initial Workup
+- EKG (or Holter)
+- Blood glucose
+- Hematocrit
+### Extra Options
+- EEG (seizure vs syncope)
+- Chest X ray
+- Echocardiography
+- Exercise stress test
+- Radionuclide cardiac scanning
+- Cardiac MRI
+- Implantable loop recorder
+- Tilt-table testing
+- Doppler flow of cerebral vessels
+- Brain MRI
+- Brain MRI angiography
+- Carotid Imaging
