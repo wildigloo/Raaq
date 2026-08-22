@@ -1,5 +1,4 @@
 # Syncope [1]
-*Last updated by Adem Berat Dalkilic on 8/18/26*
 
 ## History
 Age and gender: 
@@ -120,24 +119,20 @@ May result in syncope, and it is common in the elderly. Look out for certain dru
 - **From prolonged valsalva **or coughing fit or breath hold, etc
 - **Aortic dissection** (leading to inflow obstruction form tamponade, but may also be due to general hypotension, dissection into aortic arch leading to obstruction of cerebral circulation, or a cardiac arrhythmia)
 
-7. Hypovolemic
-8. Hypotensive:
-9. Vasovagal attack
-10. Drugs
-11. Dysautonomia
-12. Cerebrovascular:
-13. Carotid disease
-14. Vertebrobasilar disease
-15. Vasospasm
-16. Takayasu disease
-17. Metabolic:
-18. Hypoglycemia
-19. Anemia
-20. Anoxia
-21. Hyperventilation
-22. Multifactorial:
-23. Vasovagal (vasodepressor) attack
-24. Cardiac syncope
-25. Situational: cough, micturition, defecation, swallowing, diving, Valsalva maneuver
+### Hypovolemia
+- **Dehydration**, usually uncommon cause of syncope on its own; more likely with concomittant exercise
+- Acute blood loss
+- **Anemia**
+- **Vasovagal**, due to exaggerated autonomic response to specific trigger, leading to bradycardia and decreased vessel tone; usually, signs of autonomic hyperactivity, like pallor, diaphoresis, and mydriasis are present; oftentimes, vasovagal syncope is preceeded by lethargy, fatigue, nausea, ywaning, ringing in the ear, and tunnel vision; **prolonged cerebral hypoperfusion may cause urinary incontinence and a few clonic movements (convulsive syncope)**.
+- **Orthostatic**, due to **failure of autonomic factors to compensate for upright posture**:
+    - Drugs that impair SNS function: vasodilators, diuretics, antihypertensive medications, monoamine oxidase inhibitors, phenothiazines, opiates, L-dopa, alcohol, and TCAs
+    - Primary autonomic failure: Shy-Drager syndrome or Riley-Day syndrome.
+    - Secondary autnonomic failure from nervous system damage: diabetes, amyloidosis, Guillain-Barre, AIDS, chronic alcoholism, hepatic porphyria, beriberi, autoimmune subacute autonomic neuropathy, small fiber neuropathies, Lichtheim syndrome, syringomyelia
+
+### Cerebrovascular Ischemia
+- **Atherosclerosis**, usually of the cerebral vessels, but can also occur in carotid, vertebral, or basilar arteries; subclavian steal
+- **Vasculitis**, such as Takayasu arteritis or Horton's disease
+- **Impingement**, usually seen with hyperextension or lateral rotation of the head in old people; also seen in Bow-Hunter's syndrome
+- **Cerebral vasospasm**, seen after basilar artery migraine, or subarachnoid hemorrhages
 
 
