@@ -32,3 +32,15 @@ Differentiating autonomic seizures (Panayiotopoulos syndrome) from syncope can b
 - Focal motor weakness (Todd paralysis), more common post seizure than post syncope
 - Reflex asymmetry, more common post seizure than post syncope
 - Babinski sign, more common post seizure than post syncope
+
+## Types of Seizures
+
+### Absence
+- Demographic: 5-15 years with family history
+- Seizure description: abrupt, brief episode of decreased awareness wihout any aura or postictal symptoms; simple absence seizures have only an alteration of consciousness while complex absence seizures may have minor motor automatisms, which are most commonly eyelid fluttering - loss of tone, increase in tone, minor clonic movements of the facial musculature or extremities, and autonomic phenomenon like flushing, pallor, micturition, tachycardia, piloerection, and mydriasis may occur in complex, though rare; during the episode, the patient is immobile, normal breathing, no change in skin color, posture is maintained, and no motor manifestations (besides eyelid fluttering or minor automatisms) occur; usually lasts 10-15 seconds.
+- After seizure: the patient immeidately resumes previous activities and may be unaware of the attack
+
+A lot of the time, you can induce an absence seizure by having the patient hyperventilate for 3-4 minutes, which may facilitate a diagnosis.
+
+###Tonic-Clonic Seizures
+
