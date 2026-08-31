@@ -69,6 +69,35 @@ Sometimes, only tonic or only clonic seizures may occur.
 | Electroencephalogram            | 3 Hz generalized spike-and-wave    | Focal epileptic discharges or focal slowing |
 | Neuroimaging                    | Usually normal findings            | May demonstrate focal lesions               |
 
+### Psychogenic vs Epileptic Seizures
+| Attack Feature | Psychogenic Seizure | Epileptic Seizure |
+|---|---|---|
+| Stereotypy of attack | Often variable | Stereotypical |
+| Onset or progression | Gradual | More rapid |
+| Duration | May be prolonged | Typically 1–2 minutes |
+| Diurnal variation | Daytime | Nocturnal or daytime |
+| Injury | Rare | Can occur with tonic-clonic seizures |
+| Tongue biting | Rare (typically tip of tongue) | Can occur with tonic-clonic seizures (lateral tongue or inside of cheek) |
+| Ictal eye closure | Common | Rare (eyes typically open) |
+| Urinary incontinence | Rare | Frequent |
+| Vocalization | May occur; variable (often crying, moaning) | Tonic-clonic seizures may have ictal cry at onset |
+| Motor activity | Prolonged, uncoordinated; pelvic thrusting, back arching | Typically unilateral rhythmic jerking, dystonic posturing of a limb, or synchronous tonic-clonic activity |
+| Prolonged loss of muscle tone | Common | Rare |
+| Postictal confusion | Rare | Common (several minutes, often fatigued for hours desiring sleep) |
+| Postictal headache | Rare | Common |
+| Postictal crying | Common | Rare |
+| Relation to medication changes | Unrelated | Usually related |
+| Relation to menses in women | Uncommon | Occasionally increased |
+| Triggers | Emotional disturbances | Sleep deprivation, illness, medication nonadherence |
+| Frequency of attacks | More frequent, up to daily | Less frequent |
+| Interictal EEG findings | Normal | Frequently abnormal |
+| Reproduction of attack by suggestion | Sometimes | No |
+| Ictal EEG findings | Normal | Abnormal |
+| Presence of secondary gain | Common | Uncommon |
+| Presence of others | Frequently | Variable |
+| Psychiatric disturbances | Very common (though not always apparent) | Variable |
+
+**EEG:** Electroencephalogram.
 ## Diagnosing Seizures
 ### Essential
 - CBC
